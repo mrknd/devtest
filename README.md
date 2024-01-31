@@ -1,3 +1,4 @@
+[![Quality Gate Status](https://f0ce8540-bf2f-4509-9205-c55bf539c6ab-10-244-4-142-9000.spch.r.killercoda.com/api/project_badges/measure?project=softserve.academy%3Asimplecrud&metric=alert_status&token=sqb_e7dc79738dfc9989e9a95f8baeafd174e462542a)](https://f0ce8540-bf2f-4509-9205-c55bf539c6ab-10-244-4-142-9000.spch.r.killercoda.com/dashboard?id=softserve.academy%3Asimplecrud)
 ## Prerequisites:
 - Java JDK version 17+ should be installed in the system
 
